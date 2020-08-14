@@ -1,6 +1,7 @@
 # Heatwave
 Heatwave is a pure-DOM diffing/patching solution built for the Juno framework.
 
+## purpose
 By eliminating the need to convert the rendered DOM into virtual representations, we can improve re-render performance. Heatwave also uses a different keying approach to that of `virtual-dom`, allowing the DOM to be more tolerant to third-party changes.
 
 ## API
@@ -19,4 +20,6 @@ The heatwave function takes a DOM element as it's first argument. This node is a
 Jordan Gensler
 
 Mike Delucchi
+
+
 
