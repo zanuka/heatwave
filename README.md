@@ -15,4 +15,8 @@ new Heatwave(el);
 
 The heatwave function takes a DOM element as it's first argument. This node is assumed to be currently rendered on the page. 
 
+## Authors
+
+Jordan Gensler
+Mike Delucchi
 
