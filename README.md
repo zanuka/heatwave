@@ -18,5 +18,6 @@ The heatwave function takes a DOM element as it's first argument. This node is a
 ## Authors
 
 Jordan Gensler
+
 Mike Delucchi
 
