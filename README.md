@@ -12,7 +12,5 @@ Before any updates can be done to a view, it must first be initialized. This is 
 ```javascript
 new Heatwave(el);
 ```
-
 The heatwave function takes a DOM element as it's first argument. This node is assumed to be currently rendered on the page. 
-
 
